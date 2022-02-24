@@ -1,1 +1,2 @@
 # Heart-Rate-Anomolies
+Remote heart rate estimation is the measurement of heart rate without any physical contact with the patients. This is accomplished using remote photoplethysmography (rPPG). rPPG signals are usually collected using a video camera with a limitation of being sensitive to multiple contributing factors, such as different skin tones, lighting condition of environment and facial structure. 
