@@ -1,7 +1,49 @@
-# Heart-Rate-Anomolies
+# Heart-Rate-Estimation-Using-rPPG
 
-             
-                                   
+Remote heart rate estimation is the measurement of heart rate without any physical contact with the patients. During the pandemic period, telehealth and 
+
+remote health monitoring have become increasingly important and people widely expect that this will have a permanent effect on healthcare systems.
+
+According to the information from literature studies, we can say that deep learning-based methods generally give more correct and faster results than
+
+traditional methods.
+
+Health care has become pressing and important for people all around the world. Each human being is 
+
+conscious of his or her own health. Especially after the global pandemic, we can see a boom in health and 
+
+tech. Now a days everyone is trying to make health care like self-assessment, medicine delivery, diagnosis
+
+ and online doctor consultancies accessible to common man where they can access it from their home 
+
+itself. We think this project plays a part in that. Some people, because of their busy schedules, are unable to 
+
+get to a hospital. To assist in this situation, we are developing the heart rate estimation project using rppg. 
+
+This project helps individuals check their heart rate contactless. Remote photoplethysmography (rPPG) is 
+
+a contactless video-based method that monitors changes in blood volume by capturing changes in the 
+
+intensity of skin pixels to measure the pulse.
 
 
-Telemedicine as a remote clinical service for diagnosis and medical monitoring is a fast-growing public health section. Especially, the COVID-19 pandemic moved it into focus. For all emerging issues in a telehealth session, the face of the patient is an essential source of information about well-being as this is most visible for the health professional. Therefore, it would be beneficial to determine the patient’s condition directly from the face. Heart rate (HR) is a basic parameter of cardiovascular activity. Visual HR estimation, i.e., HR estimation from a video sequence or direct feed from a camera, recently received a lot of attention. Compared to the contact methods, visual HR methods deliver precise readings using cheap measuring devices (such as web cameras). This is particularly important for patients with acute skin conditions. Heart rate is a significant indicator of the functional and psycho-emotional status of humans. Remote photoplethysmography is useful in situations where conventional approaches to heart rate estimation like an electrocardiogram and photoplethysmography require physical contact with the subject is unfeasible. Acquiring the rPPG signal is useful for estimating physiological signals such as heart rate (HR) and heart rate variation (HRV), which are important parameters for remote healthcare. With the development of the computer vision algorithm, remote heart rate measurement using remote photoplethysmography (rPPG) was proposed. Remote photoplethysmography (rPPG) monitors heart rate without physical contact, allowing for many applications. The deep learning rPPG has outperformed traditional approaches in a controlled context.
+
+Hardware requirements:
+
+Hardware requirements for insurance on the internet will be the same for both parties which are as follows: 
+
+Processor: Dual Core
+
+RAM: 2 GB 
+
+Hard Disk: 320 GB 
+
+NIC: For each party
+
+
+
+Software requirements Operating System: 
+
+Windows10 Ultimate which supports networking. 
+
+Python development
